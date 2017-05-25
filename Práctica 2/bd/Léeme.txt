@@ -1,0 +1,6 @@
+En esta carpeta se adjuntan las bases de datos usadas en la realización de la segunda práctica de SMD.
+Podemos encontrar cuatro ficheros:
+Copia de PRACTIC2.MDB: Copia de la base de datos que usa StarTracker, extraída directamente de la carpeta de StarTracker.
+SMDVACIA.MDB: Base de datos vacía. Usada para exportar las tablas que usará StarTracker.
+ventaPR2Original: Base de datos entregada con el enunciado de la práctica.
+ventaPR2Modificada: Base de datos modificada para la realización de la práctica. Incluye todas las consultas de creación de tabla definidas en la memoria de la práctica.

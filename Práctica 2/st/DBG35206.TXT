@@ -1,0 +1,93 @@
+Debug Log as of Tuesday, March 28, 2017 09:46:46
+Error number: 3049
+Error message: ' ' is corrupted or isn't a Microsoft Access database.
+Current Procedure: 
+Last Action: Open New Report
+Action(0) = Open Blank Report
+Action(1) = 
+Action(2) = 
+Action(3) = 
+Action(4) = 
+Action(5) = 
+Action(6) = 
+Action(7) = 
+Action(8) = 
+Action(9) = 
+Action(10) = 
+Data Column Count: 2
+Data Row Count: 70
+lastSQL$: 
+ReportSQL$:
+
+Spreadsheet Follows:					
+Report Descriptor:	
+StarTracker Version:	2.055
+Dictionary Version:	2.055
+Database Type:	
+Database Name:	
+Family:	
+Report Title:	
+Number of Columns:	0
+Number of Dimensions:	0
+Number of Attributes:	0
+Table Name:	
+Field Name:	
+Data Type:	
+Aggregation Type:	
+Compare Type:	
+Display Type:	
+Reverse Flag:	
+Hide Flag:	
+Sort Priority:	
+Exception:	
+Reset By:	
+Break By:	
+Break Filler:	
+Format Spec:	
+Column Head:	
+Time Type:	
+Drill Down Report:	
+Printing Specs:	Times New Roman,8,8,14,10,10,0,5,12
+Status:	
+Atom Count:	
+Versus Dim Group0:	
+Versus Dim Group1:	
+Versus Dim Group2:	
+Versus Dim Group3:	
+Versus Dim Group4:	
+Versus Dim Group5:	
+Versus Dim Group6:	
+Versus Dim Group7:	
+Versus Dim Group8:	
+Versus Dim Group9:	
+Versus Dim Group10:	
+Versus Dim Group11:	
+Versus Dim Group12:	
+Versus Dim Group13:	
+Versus Dim Group14:	
+Versus Dim Group15:	
+Versus Dim Group16:	
+Versus Dim Group17:	
+Versus Dim Group18:	
+Versus Dim Group19:	
+Base Group0:	
+Base Group1:	
+Base Group2:	
+Base Group3:	
+Base Group4:	
+Base Group5:	
+Base Group6:	
+Base Group7:	
+Base Group8:	
+Base Group9:	
+Base Group10:	
+Base Group11:	
+Base Group12:	
+Base Group13:	
+Base Group14:	
+Base Group15:	
+Base Group16:	
+Base Group17:	
+Base Group18:	
+Base Group19:	
+
